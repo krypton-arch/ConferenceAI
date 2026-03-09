@@ -151,7 +151,7 @@ Room Database (SQLite)
 
 You can download the compiled APK for testing using the link below:
 
-[![Download APK](https://img.shields.io/badge/View_&_Download-APK-blue.svg?logo=android&style=for-the-badge)](https://github.com/krypton-arch/ConferenceAI/blob/main/apk/app-debug.apk)
+[![Download APK](https://img.shields.io/badge/View_&_Download-APK-blue.svg?logo=android&style=for-the-badge)](https://github.com/krypton-arch/ConferenceAI/blob/main/apk/app-release-signed.apk)
 
 ### Installation Steps:
 1. Click the badge above to open the APK file repository page.

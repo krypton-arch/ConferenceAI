@@ -149,8 +149,11 @@ Room Database (SQLite)
 
 ## 📥 Download APK
 
-You can download the compiled APK directly from GitHub using the link below:
+You can download the compiled APK for testing using the link below:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?logo=android&style=for-the-badge)](https://github.com/krypton-arch/ConferenceAI/raw/main/apk/app-debug.apk)
+[![Download APK](https://img.shields.io/badge/View_&_Download-APK-blue.svg?logo=android&style=for-the-badge)](https://github.com/krypton-arch/ConferenceAI/blob/main/apk/app-debug.apk)
 
-*(Note: If the link above does not work, please ensure you have pushed the `apk/app-debug.apk` file to the `main` branch, or check the [Releases](https://github.com/krypton-arch/ConferenceAI/releases) page.)*
+### Installation Steps:
+1. Click the badge above to open the APK file repository page.
+2. On the GitHub page, click the **Download raw file** button (usually a download icon ⬇️ on the right side).
+3. Transfer the downloaded `.apk` to your Android device (if downloaded on PC) and install it.
